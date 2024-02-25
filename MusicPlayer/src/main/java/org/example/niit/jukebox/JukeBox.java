@@ -533,7 +533,7 @@ public class JukeBox {
                         AudioInputStream audioInputStream = AudioSystem.getAudioInputStream(new File(song1.getPath()));
                         clip = AudioSystem.getClip();
                         clip.open(audioInputStream);
-                        System.out.println("song id " + song1.getSong_id() + "," + "Title: " + song1.getTitle() + "," + " " + "Genere: " + song1.getGenere() + "," + " " + "Artist: " + " " + song1.getArtistName() + "," + " " + "Album: " + " " + song1.getAlbumName() + "," + " " + "Duration: " + " " + song1.getDuration());
+                        System.out.println("song id: " + song1.getSong_id() + "," + "Title: " + song1.getTitle() + "," + " " + "Genere: " + song1.getGenere() + "," + " " + "Artist: " + " " + song1.getArtistName() + "," + " " + "Album: " + " " + song1.getAlbumName() + "," + " " + "Duration: " + " " + song1.getDuration());
                         clip.start();
                         playing = true;
                         break;
