@@ -105,6 +105,7 @@ public class JukeBoxImpl {
         jukeBox.addSong(new Song(23,"Tumi","Anupam Roy","Prakton",4.59,"E:/Project/jukebox/MusicPlayer/src/Players/Tumi Jake Bhalobaso.wav","sad"));
         jukeBox.addSong(new Song(24,"Ki","Papon","Ki kora bolbo tomai",4.56,"E:/Project/jukebox/MusicPlayer/src/Players/Ki Kore Bolbo Tomaye.wav","sad"));
         jukeBox.addSong(new Song(25,"Maa","Shankar Mahadevan","Tara Zameen Par",5.10,"E:/Project/jukebox/MusicPlayer/src/Players/Taare Zameen Par.wav","sad"));
+        jukeBox.addSong(new Song(26,"Zara","kk","Jannat",5.03,"E:/Project/jukebox/MusicPlayer/src/Players/Zara Sa.wav","romantic"));
         while (true) {
             System.out.println("\n option: ");
             System.out.println("1.songs list");
