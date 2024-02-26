@@ -45,7 +45,7 @@ public class MediaPlayer {
             st.executeUpdate("insert into players values(19,'Koto','Babul Supriyo','Katobaro Bhebechhinu',3.59,'E:/Project/jukebox/MusicPlayer/src/Players/Kotobaro Bhebechhinu.wav','romantic')");
             st.executeUpdate("insert into players values(20,'Sei','Abhijeet Bhattachariya','Sei Bhalo Sei Bhalo Abhijeet Bhattacharya',3.40,'E:/Project/jukebox/MusicPlayer/src/Players/Sei Bhalo, Sei Bhalo.wav','romantic')");
             st.executeUpdate("insert into players values(21,'Amake','Anupam Roy','Autograph',5.21,'E:/Project/jukebox/MusicPlayer/src/Players/Aamake-Amar-Moto-Thakte-Dao.wav','soul')");
-            st.executeUpdate("insert into players values(22,'Pehli','Atif Aslam','Race',5.13,'E:/Project/jukebox/MusicPlayer/src/Players/Pehli Nazar Mein Race.wav','romantic')");
+            st.executeUpdate("insert into players values(22,'Pee','Mohit Chauhan','Once Upon a time in Mumbai',4.16,'E:/Project/jukebox/MusicPlayer/src/Players/Pee-Loon-Tere-Neele-Neele.wav','romantic')");
             st.executeUpdate("insert into players values(23,'Tumi','Anupam Roy','Prakton',4.59,'E:/Project/jukebox/MusicPlayer/src/Players/Tumi Jake Bhalobaso.wav','sad')");
             st.executeUpdate("insert into players values(24,'Ki','Papon','ki kora bolbo tomai',4.56 ,'E:/Project/jukebox/MusicPlayer/src/Players/Ki Kore Bolbo Tomaye.wav','sad')");
             st.executeUpdate("insert into players values(25,'Maa','Shankar Mahadevan','Tare Zameen Par',5.10,'E:/Project/jukebox/MusicPlayer/src/Players/Taare Zameen Par.wav','sad')");
