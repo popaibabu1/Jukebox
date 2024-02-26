@@ -101,7 +101,7 @@ public class JukeBoxImpl {
         jukeBox.addSong(new Song(19,"Koto","Babul Supriyo","Katobaro Bhebechhinu",3.59,"E:/Project/jukebox/MusicPlayer/src/Players/Kotobaro Bhebechhinu.wav","romantic"));
         jukeBox.addSong(new Song(20,"Sei","Abhijeet Bhattachariya","Sei Bhalo Sei Bhalo Abhijeet Bhattacharya",3.40,"E:/Project/jukebox/MusicPlayer/src/Players/Sei Bhalo, Sei Bhalo.wav","romantic"));
         jukeBox.addSong(new Song(21,"Amake","Anupam Roy","Autograph",5.21,"E:/Project/jukebox/MusicPlayer/src/Players/Aamake-Amar-Moto-Thakte-Dao.wav","soul"));
-        jukeBox.addSong(new Song(22,"Pehli","Atif Aslam","Race",5.13,"E:/Project/jukebox/MusicPlayer/src/Players/Pehli Nazar Mein Race.wav","romantic"));
+        jukeBox.addSong(new Song(22,"Pee","Mohit Chauhan","Once Upon a time in Mumbai ",4.16,"E:/Project/jukebox/MusicPlayer/src/Players/Pee-Loon-Tere-Neele-Neele.wav","romantic"));
         jukeBox.addSong(new Song(23,"Tumi","Anupam Roy","Prakton",4.59,"E:/Project/jukebox/MusicPlayer/src/Players/Tumi Jake Bhalobaso.wav","sad"));
         jukeBox.addSong(new Song(24,"Ki","Papon","Ki kora bolbo tomai",4.56,"E:/Project/jukebox/MusicPlayer/src/Players/Ki Kore Bolbo Tomaye.wav","sad"));
         jukeBox.addSong(new Song(25,"Maa","Shankar Mahadevan","Tara Zameen Par",5.10,"E:/Project/jukebox/MusicPlayer/src/Players/Taare Zameen Par.wav","sad"));
