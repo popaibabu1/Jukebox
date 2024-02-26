@@ -157,7 +157,7 @@ public class Playlist {
         Scanner scanner = new Scanner(System.in);
         String choice="";
         do{
-            System.out.print("Enter the song ID to play : ");
+            System.out.println("Enter the song ID to play : ");
             int songId;
             songId = scanner.nextInt();
             System.out.println("Do you want to play more song press y and no then press n: ");
