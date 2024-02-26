@@ -49,6 +49,7 @@ public class MediaPlayer {
             st.executeUpdate("insert into players values(23,'Tumi','Anupam Roy','Prakton',4.59,'E:/Project/jukebox/MusicPlayer/src/Players/Tumi Jake Bhalobaso.wav','sad')");
             st.executeUpdate("insert into players values(24,'Ki','Papon','ki kora bolbo tomai',4.56 ,'E:/Project/jukebox/MusicPlayer/src/Players/Ki Kore Bolbo Tomaye.wav','sad')");
             st.executeUpdate("insert into players values(25,'Maa','Shankar Mahadevan','Tare Zameen Par',5.10,'E:/Project/jukebox/MusicPlayer/src/Players/Taare Zameen Par.wav','sad')");
+            st.executeUpdate("insert into players values(26,'Zara','kk','Jannat',5.03,'E:/Project/jukebox/MusicPlayer/src/Players/Zara Sa.wav','romantic')");
         } catch (SQLException e) {
             e.printStackTrace();
         }
